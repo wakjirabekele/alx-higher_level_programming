@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 10-add.py
-# Brennan D Baraban <375@holbertonschool.com>
+# wakjirabekele<wakjirabekele2018@gmail.com>
 
 
 def add(a, b):
