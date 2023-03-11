@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 10-divisible_by_2.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Wakjira Bekele <wakjirabekele2018@gmail.com>
 
 
 def divisible_by_2(my_list=[]):
