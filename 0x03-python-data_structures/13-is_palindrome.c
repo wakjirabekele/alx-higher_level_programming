@@ -1,6 +1,6 @@
 /*
  * File: 13-is_palindrome.c
- * Auth: Brennan D Baraban
+ * Auth: Wakjira Bekele
  */
 
 #include "lists.h"
