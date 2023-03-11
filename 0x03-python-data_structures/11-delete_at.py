@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 11-delete_at.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Wakjira Bekele <wakjirabekele2018@gmail.com>
 
 
 def delete_at(my_list=[], idx=0):
