@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 1-search_replace.py
-# Brennan D Baraban <375@holbertonschool.com
+# wakjira Bekele <wakjirabekele2018@gmail.com>
 
 
 def search_replace(my_list, search, replace):
