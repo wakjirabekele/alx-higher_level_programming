@@ -1,6 +1,6 @@
 /*
  * File: 103-python.c
- * Auth: Brennan D Baraban
+ * Auth: # wakjira Bekele <wakjirabekele2018@gmail.com>
  */
 
 #include <Python.h>
