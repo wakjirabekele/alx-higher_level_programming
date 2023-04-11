@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# 11-student.py
+# 10-student.py
 # wakjira Bekele <wakjirabekele2018@gmial.com>
 """Defines a class Student."""
 
